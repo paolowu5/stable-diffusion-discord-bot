@@ -70,7 +70,7 @@ A powerful Discord bot that integrates with Stable Diffusion to generate and man
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/stable-diffusion-discord-bot.git
+   git clone https://github.com/paolowu5/stable-diffusion-discord-bot.git
    cd stable-diffusion-discord-bot
    ```
 
@@ -122,9 +122,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <div align="center">
   <p>© 2025 Diffusion Bot • Powered by Stable Diffusion</p>
   
-  <p>
-    <a href="https://github.com/yourusername/stable-diffusion-discord-bot">GitHub</a> • 
-    <a href="https://github.com/yourusername/stable-diffusion-discord-bot/issues">Report Issues</a> • 
-    <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">Stable Diffusion WebUI</a>
+  <p>• 
+    <a href="https://diffusionbot.pages.dev" target="_blank">Webpage</a> • 
+    <a href="https://github.com/paolowu5/stable-diffusion-discord-bot/issues" target="_blank">Report Issues</a> • 
+    <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui target="_blank">Stable Diffusion WebUI</a>
   </p>
 </div>

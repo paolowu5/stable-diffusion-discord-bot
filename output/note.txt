@@ -1,0 +1,1 @@
+The bot will save images in these folders. It will automatically create folders and subfolders based on user and prompt
