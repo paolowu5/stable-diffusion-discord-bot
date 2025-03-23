@@ -121,7 +121,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <div align="center">  
   <p>
-    <a href="https://diffusionbot.pages.dev" target="_blank">Webpage</a> • 
+    <a href="https://diffusion-website.pages.dev/" target="_blank">Webpage</a> • 
     <a href="https://github.com/paolowu5/stable-diffusion-discord-bot/issues" target="_blank">Report Issues</a> • 
     <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank">Stable Diffusion WebUI</a>
   </p>
